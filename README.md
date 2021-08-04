@@ -1,1 +1,1 @@
-This is my personal website i created for a quick introduction about me.
+This is my personal website I created for a quick introduction about me.
